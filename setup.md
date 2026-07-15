@@ -27,5 +27,5 @@
 8. Set-up time, region, and log-in
 
 ### Quality of Life 
-* General>Advanced>Bidirectional clipboard
-* Preferences>Screen Configuration, right-click and choose the desired resolution
+* VM Settings>General>Advanced>Bidirectional clipboard
+* Raspberry>Preferences>Screen Configuration, right-click and choose the desired resolution
