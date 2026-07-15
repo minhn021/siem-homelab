@@ -6,8 +6,8 @@
 
 ## Raspberry Pi Set-Up
 1. Install Raspberry Pi Desktop at https://www.raspberrypi.com/software/operating-systems/#raspberry-pi-desktop
-2. Open VirtualBox, create a New machine
-3. Settings>Storage>Controller IDE>Attributes>Optical Drive>Choose a Disk File...
+2. Open VirtualBox, create a New machine and set the VM options below
+3. Settings>Storage>Controller IDE>Attributes>Optical Drive>Choose a Disk File... and select the iso file
 4. 
 
 ### VM Settings
