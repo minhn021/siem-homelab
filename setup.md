@@ -15,7 +15,6 @@
 * 15 GB Storage
 * 4096 MB Base Memory
 * 2 CPU
-* General>Advanced>Bidirectional clipboard for convenience
 
 ### Graphical Installation
 1. Select graphical install
@@ -26,3 +25,7 @@
 6. Select "yes" to "Write the changes to disks?"
 7. Install the GRUB boat loader and select /dev/sda
 8. Set-up time, region, and log-in
+
+### Quality of Life 
+* General>Advanced>Bidirectional clipboard
+* Preferences>Screen Configuration, right-click and choose the desired resolution
